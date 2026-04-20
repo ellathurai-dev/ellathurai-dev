@@ -1,38 +1,31 @@
-👋 Hi, I'm Ellathurai
+# 👋 Hi, I'm Ellathurai
 
-🎓 B.Sc Computer Science Graduate
-💻 Aspiring Java Full Stack Developer
+### Java Full Stack Developer | Spring Boot · React.js · MySQL
 
-🚀 About Me
-Passionate about building scalable web applications
-Strong in Java, OOP concepts, and backend development
-Currently learning and exploring React for frontend development
-Actively working on real-time mini projects
+---
+
+### 🚀 About Me
+- 🎓 B.Sc Computer Science Graduate (2025)
+- 💻 Passionate about building end-to-end web applications
+- 🔨 Built 4 full stack projects using Spring Boot, MySQL & React.js
+- 📍 Open to opportunities in Chennai | Bengaluru | Coimbatore
+
+---
 
 ### 🛠️ Tech Stack
 
-## Languages & Backend:
+**Languages:** Java · JavaScript · SQL
 
--Java
--Spring Boot
+**Backend:** Spring Boot · Spring Data JPA · Hibernate · REST APIs · Maven
 
-## Frontend:
+**Frontend:** React.js · HTML5 · CSS3
 
--HTML
--CSS
--JavaScript
--React (Currently Learning)
+**Database:** MySQL
 
-## Database:
+**Tools:** Git · GitHub · Postman · VS Code
 
--MySQL
+---
 
-## Tools & Platforms:
-
--Git
--GitHub
-
-## 📌 Current Focus
--Improving problem-solving skills
--Building full stack projects
--Strengthening Spring Boot knowledge
+### 📌 Current Focus
+- 🔨 Building and deploying full stack projects
+- 💡 Strengthening Spring Boot & R
