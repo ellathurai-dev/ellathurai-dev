@@ -46,30 +46,19 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ellathurai-dev&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellathurai-dev&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellathurai-dev&theme=radical&hide_border=true" alt="streak stats" />
-</p>
+
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ellathurai-dev&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
+
 
 ---
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ellathurai-dev/ellathurai-dev/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
